@@ -1,0 +1,14 @@
+References:
+
+
+https://www.youtube.com/watch?v=vcOE2XAQHzY
+https://www.youtube.com/watch?v=jgKPmjQtJG4
+-Two part video that explained how to have an arduino host a telnet server and receive commands from users who connected to that server
+-The code that was broken down and explained in these videos was used as a basis for how the arduino receives online commands
+-I highly reccomend watching these videos if you plan to do a similar project.
+-Warning, these videos are about an hour long and pretty compact. It'll take much more than an hour to watch since you'll need to constantly pause and rewind.
+
+
+https://medium.com/@benjamindavidfraser/arduino-nrf24l01-communications-947e1acb33fb
+-Great resource for the RF24 chips
+-Contains a diagram for how to set up the chip, coding API and explanations of what they do, and example code.
